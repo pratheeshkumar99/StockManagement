@@ -1,5 +1,5 @@
 # CS5010GroupAssignment
-Ongoing Group Assignment for a Portfolio Manager and Simulation
+Group Assignment for a Portfolio Manager and Simulation
 for CS 5010 (Spring 2024) with Professor Amit Shesh.
 
 Created by Pratheesh and Ben Piperno
