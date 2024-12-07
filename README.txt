@@ -1,8 +1,8 @@
 # CS5010GroupAssignment
-Group Assignment for a Portfolio Manager and Simulation
+Portfolio Manager and Simulation
 for CS 5010 (Spring 2024) with Professor Amit Shesh.
 
-Created by Pratheesh and Ben Piperno
+Created by Pratheesh
 
 This program is a GUI or text-based interface that allows a user to create investment portfolios,
 try out buying and selling of stock, and various investment strategies to see how they can grow
